@@ -7,6 +7,14 @@
         <mxCell id="g-NQHleK75eLMPgyXnN6-6" edge="1" parent="1" source="g-NQHleK75eLMPgyXnN6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g-NQHleK75eLMPgyXnN6-5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-92" edge="1" parent="1" source="g-NQHleK75eLMPgyXnN6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g-NQHleK75eLMPgyXnN6-91" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-115" edge="1" parent="1" source="g-NQHleK75eLMPgyXnN6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="g-NQHleK75eLMPgyXnN6-116">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="g-NQHleK75eLMPgyXnN6-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Permafrost Groundwater Interaction&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="70" width="120" x="350" y="430" as="geometry" />
         </mxCell>
@@ -22,8 +30,25 @@
         <mxCell id="g-NQHleK75eLMPgyXnN6-49" edge="1" parent="1" source="g-NQHleK75eLMPgyXnN6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g-NQHleK75eLMPgyXnN6-48" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g-NQHleK75eLMPgyXnN6-10" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Perennially frozen ground (soil/rock incl. ice and OM)&amp;nbsp; with T~0 degC for &amp;gt;2 yr" vertex="1">
-          <mxGeometry height="60" width="120" x="170" y="130" as="geometry" />
+        <mxCell id="g-NQHleK75eLMPgyXnN6-77" edge="1" parent="1" source="g-NQHleK75eLMPgyXnN6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="g-NQHleK75eLMPgyXnN6-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="115" />
+              <mxPoint x="400" y="115" />
+              <mxPoint x="400" y="-5" />
+              <mxPoint x="960" y="-5" />
+            </Array>
+            <mxPoint x="299.95" y="114.95" as="sourcePoint" />
+            <mxPoint x="959.95" y="-235.05" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-103" edge="1" parent="1" source="g-NQHleK75eLMPgyXnN6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" target="g-NQHleK75eLMPgyXnN6-104">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-10" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;Perennially frozen ground (soil/rock incl. ice and OM)&amp;nbsp; with T~0 degC for &amp;gt;2 yr&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="170" y="130" as="geometry" />
         </mxCell>
         <mxCell id="g-NQHleK75eLMPgyXnN6-19" edge="1" parent="1" source="g-NQHleK75eLMPgyXnN6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="g-NQHleK75eLMPgyXnN6-10">
           <mxGeometry relative="1" as="geometry" />
@@ -120,7 +145,7 @@
             <mxPoint x="639.7368421052633" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g-NQHleK75eLMPgyXnN6-48" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" value="Ice-wedge polygones" vertex="1">
+        <mxCell id="g-NQHleK75eLMPgyXnN6-48" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" value="&lt;b&gt;Ice-wedge polygones&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="610" y="70" as="geometry" />
         </mxCell>
         <mxCell id="g-NQHleK75eLMPgyXnN6-51" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Formed during repeated cycles of thermal contraction and water infiltr" vertex="1">
@@ -182,6 +207,122 @@
         </mxCell>
         <mxCell id="g-NQHleK75eLMPgyXnN6-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Affect transport of nutrients through shallow gw fluxes into surface&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="579.7368421052633" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-80" edge="1" parent="1" source="g-NQHleK75eLMPgyXnN6-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g-NQHleK75eLMPgyXnN6-79" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-82" edge="1" parent="1" source="g-NQHleK75eLMPgyXnN6-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g-NQHleK75eLMPgyXnN6-81" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-84" edge="1" parent="1" source="g-NQHleK75eLMPgyXnN6-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g-NQHleK75eLMPgyXnN6-83" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-89" edge="1" parent="1" source="g-NQHleK75eLMPgyXnN6-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="g-NQHleK75eLMPgyXnN6-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="-100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;Taliks&lt;/b&gt;" vertex="1">
+          <mxGeometry height="34.95" width="120" x="899.95" y="-240" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-79" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Area of unfrozen ground existed &amp;gt;1 yr" vertex="1">
+          <mxGeometry height="60" width="120" x="730" y="-289.995" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-81" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Formed durig regional thermal, hydrol., hydrogeol., or hydroch. anomalies" vertex="1">
+          <mxGeometry height="60" width="120" x="899.95" y="-367.475" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-86" edge="1" parent="1" source="g-NQHleK75eLMPgyXnN6-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="g-NQHleK75eLMPgyXnN6-85" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-88" edge="1" parent="1" source="g-NQHleK75eLMPgyXnN6-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="g-NQHleK75eLMPgyXnN6-87" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-83" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Types" vertex="1">
+          <mxGeometry height="27.47" width="60.05" x="1110" y="-236.26" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-85" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="non-cryotic (T &amp;gt; 0 degC)" vertex="1">
+          <mxGeometry height="30" width="139.99" x="1210" y="-259.99" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-87" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="cryotic (T &amp;lt; 0 degC)" vertex="1">
+          <mxGeometry height="31.22" width="120" x="1210" y="-220" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-90" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Connection b/w water from different layers of PF and facilitate gw discharge into surface, terrestrial, and marine sys" vertex="1">
+          <mxGeometry height="70" width="200" x="1050" y="-130" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-95" edge="1" parent="1" source="g-NQHleK75eLMPgyXnN6-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="g-NQHleK75eLMPgyXnN6-93" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-99" edge="1" parent="1" source="g-NQHleK75eLMPgyXnN6-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="g-NQHleK75eLMPgyXnN6-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-100" edge="1" parent="1" source="g-NQHleK75eLMPgyXnN6-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="g-NQHleK75eLMPgyXnN6-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-91" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Types of groundwater" vertex="1">
+          <mxGeometry height="60" width="120" x="610" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-110" edge="1" parent="1" source="g-NQHleK75eLMPgyXnN6-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g-NQHleK75eLMPgyXnN6-109" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-93" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Suprapermafrost" vertex="1">
+          <mxGeometry height="30" width="120" x="880" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-108" edge="1" parent="1" source="g-NQHleK75eLMPgyXnN6-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g-NQHleK75eLMPgyXnN6-107" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="subpermafrost" vertex="1">
+          <mxGeometry height="30" width="120" x="880" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-102" edge="1" parent="1" source="g-NQHleK75eLMPgyXnN6-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g-NQHleK75eLMPgyXnN6-101" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Intrapermafrost" vertex="1">
+          <mxGeometry height="30" width="120" x="880" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-101" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="exists within permafrost, present in unfrozen zones s.a. taliks or cryopegs" vertex="1">
+          <mxGeometry height="60" width="120" x="1080" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-106" edge="1" parent="1" source="g-NQHleK75eLMPgyXnN6-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g-NQHleK75eLMPgyXnN6-105" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-104" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Cryopegs" vertex="1">
+          <mxGeometry height="30" width="120" x="70" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-105" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="perennially cryotic part of unfrozen ground charact. by freezing-point depression" vertex="1">
+          <mxGeometry height="75" width="120" x="70" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-107" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="In noncryotic ground below bottom of PF" vertex="1">
+          <mxGeometry height="35" width="120" x="1080" y="637.5" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-114" edge="1" parent="1" source="g-NQHleK75eLMPgyXnN6-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g-NQHleK75eLMPgyXnN6-113" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-109" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Above top of PF layer" vertex="1">
+          <mxGeometry height="35" width="120" x="1080.02" y="497.5" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-113" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Occurs in active layer, b/w AL and PF, and in taliks below rivers and lakes" vertex="1">
+          <mxGeometry height="60" width="120" x="1280.02" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-118" edge="1" parent="1" source="g-NQHleK75eLMPgyXnN6-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g-NQHleK75eLMPgyXnN6-117" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-120" edge="1" parent="1" source="g-NQHleK75eLMPgyXnN6-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g-NQHleK75eLMPgyXnN6-119" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-122" edge="1" parent="1" source="g-NQHleK75eLMPgyXnN6-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g-NQHleK75eLMPgyXnN6-121" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-116" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Active layer" vertex="1">
+          <mxGeometry height="30" width="120" x="864.5" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-117" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Made up of soil or rock" vertex="1">
+          <mxGeometry height="60" width="120" x="1070" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-119" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="top layer located above PF table" vertex="1">
+          <mxGeometry height="60" width="120" x="864.5" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="g-NQHleK75eLMPgyXnN6-121" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="undergoes seasonal thawing and freezing" vertex="1">
+          <mxGeometry height="60" width="120" x="720" y="355" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
