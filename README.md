@@ -14,7 +14,7 @@ Then commit the symlink:
 
 ```bash
 git add linked-folder
-git commit -m "Link project to preexisting folder"
+git commit -m "Link project to pre-existing folder"
 ```
 
 This keeps your existing folder in place while allowing this repository to reference it.
