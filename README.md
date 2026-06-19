@@ -2,7 +2,7 @@
 
 This repository can act as a lightweight project wrapper now, and be connected to an existing folder later.
 
-## Link to a preexisting folder later
+## Link to a pre-existing folder later
 
 When you are ready, create a symlink in this repository that points to your existing folder:
 
@@ -18,3 +18,5 @@ git commit -m "Link project to preexisting folder"
 ```
 
 This keeps your existing folder in place while allowing this repository to reference it.
+
+> Note: Git tracks the symlink itself, not the target folder contents. Symlink behavior can vary across platforms (especially on Windows), so confirm your team environment supports it before relying on this workflow.
