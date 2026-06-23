@@ -716,10 +716,10 @@
             <mxPoint x="-1179.9999999999998" y="2560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ox5nj0q9cpcHpPmOWNk0-12" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Terrestrial" vertex="1">
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-12" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" value="Terrestrial" vertex="1">
           <mxGeometry height="60" width="120" x="-936.5549999999998" y="2295" as="geometry" />
         </mxCell>
-        <mxCell id="ox5nj0q9cpcHpPmOWNk0-14" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Marine" vertex="1">
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-14" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" value="Marine" vertex="1">
           <mxGeometry height="60" width="120" x="-390.005" y="2290" as="geometry" />
         </mxCell>
         <mxCell id="ox5nj0q9cpcHpPmOWNk0-16" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="discharge can increase during winter as consequence of lateral talik formation" vertex="1">
@@ -754,7 +754,22 @@
             <mxPoint x="-1380" y="2880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ox5nj0q9cpcHpPmOWNk0-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GWD to rivers, lakes, and ponds" vertex="1">
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-42" edge="1" parent="1" source="ox5nj0q9cpcHpPmOWNk0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="ox5nj0q9cpcHpPmOWNk0-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-860" y="2890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-46" edge="1" parent="1" source="ox5nj0q9cpcHpPmOWNk0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="ox5nj0q9cpcHpPmOWNk0-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-750" y="2690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-51" edge="1" parent="1" source="ox5nj0q9cpcHpPmOWNk0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" target="ox5nj0q9cpcHpPmOWNk0-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1140" y="3070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="GWD to rivers, lakes, and ponds" vertex="1">
           <mxGeometry height="60" width="120" x="-1239.9999999999998" y="2530" as="geometry" />
         </mxCell>
         <mxCell id="ox5nj0q9cpcHpPmOWNk0-24" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="low DOC, low aromatic content of DOM, high content of hydrophilic organic matter fraction" vertex="1">
@@ -795,6 +810,103 @@
         </mxCell>
         <mxCell id="ox5nj0q9cpcHpPmOWNk0-40" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="main source of CH4 emission at high lat,&lt;div&gt;40% of global diffussive CH4&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-1640" y="2850" as="geometry" />
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-45" edge="1" parent="1" source="ox5nj0q9cpcHpPmOWNk0-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ox5nj0q9cpcHpPmOWNk0-44" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GWD can be responsible for &amp;gt;3/4 of total river runoff during thaw season" vertex="1">
+          <mxGeometry height="60" width="120" x="-890" y="2820" as="geometry" />
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-44" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="higher DOC and DIC in stream water" vertex="1">
+          <mxGeometry height="60" width="120" x="-890" y="2960" as="geometry" />
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-49" edge="1" parent="1" source="ox5nj0q9cpcHpPmOWNk0-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ox5nj0q9cpcHpPmOWNk0-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-749.7142857142856" y="2750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PF thaw may reinforce contr. of gw to carbon cycle of surface waters" vertex="1">
+          <mxGeometry height="60" width="120" x="-810" y="2660" as="geometry" />
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ages of DOC and DIC older in streams where warmer PF and higher gw flow observed" vertex="1">
+          <mxGeometry height="70" width="129.98" x="-729.98" y="2770" as="geometry" />
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-54" edge="1" parent="1" source="ox5nj0q9cpcHpPmOWNk0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ox5nj0q9cpcHpPmOWNk0-53" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Importance of microtopography" vertex="1">
+          <mxGeometry height="60" width="120" x="-1200" y="3040" as="geometry" />
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-56" edge="1" parent="1" source="ox5nj0q9cpcHpPmOWNk0-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ox5nj0q9cpcHpPmOWNk0-55" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-57" edge="1" parent="1" source="ox5nj0q9cpcHpPmOWNk0-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ox5nj0q9cpcHpPmOWNk0-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1000" y="3290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-67" edge="1" parent="1" source="ox5nj0q9cpcHpPmOWNk0-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ox5nj0q9cpcHpPmOWNk0-66" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-69" edge="1" parent="1" source="ox5nj0q9cpcHpPmOWNk0-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ox5nj0q9cpcHpPmOWNk0-68" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-70" edge="1" parent="1" source="ox5nj0q9cpcHpPmOWNk0-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ox5nj0q9cpcHpPmOWNk0-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1360" y="3290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-74" edge="1" parent="1" source="ox5nj0q9cpcHpPmOWNk0-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" target="ox5nj0q9cpcHpPmOWNk0-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1290" y="3390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-53" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="geometric features have strong effect on gw seepage" vertex="1">
+          <mxGeometry height="60" width="120" x="-1200" y="3180" as="geometry" />
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-60" edge="1" parent="1" source="ox5nj0q9cpcHpPmOWNk0-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ox5nj0q9cpcHpPmOWNk0-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-55" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="polygon aspect ratios: width to thawed depth" vertex="1">
+          <mxGeometry height="60" width="120" x="-1000" y="3180" as="geometry" />
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-61" edge="1" parent="1" source="ox5nj0q9cpcHpPmOWNk0-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-780" y="3250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="hydraulic conductivity anisotropy" vertex="1">
+          <mxGeometry height="60" width="120" x="-1000" y="3250" as="geometry" />
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-63" edge="1" parent="1" source="ox5nj0q9cpcHpPmOWNk0-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ox5nj0q9cpcHpPmOWNk0-62" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Influence drainage pathways and temporal decl. of water vol. from ice-edged polygon centers" vertex="1">
+          <mxGeometry height="60" width="180" x="-780" y="3220" as="geometry" />
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-65" edge="1" parent="1" source="ox5nj0q9cpcHpPmOWNk0-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ox5nj0q9cpcHpPmOWNk0-64" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-62" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="decrease of aspect ratio: thaw depth&amp;gt; wrt polygon width" vertex="1">
+          <mxGeometry height="50" width="120" x="-750" y="3340" as="geometry" />
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-64" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="increase in polygon volume accessibility for drainage" vertex="1">
+          <mxGeometry height="60" width="120" x="-750" y="3420" as="geometry" />
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-66" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="drainage through AL along ring-shaped area of polygon center near rims" vertex="1">
+          <mxGeometry height="60" width="120" x="-1200" y="3320" as="geometry" />
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-68" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="drainage of narrower polygons more distributed" vertex="1">
+          <mxGeometry height="60" width="120" x="-1400" y="3180" as="geometry" />
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="wider polygons: more focused drainage" vertex="1">
+          <mxGeometry height="60" width="120" x="-1420" y="3250" as="geometry" />
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="water seepage occurs more rapidly and tranport of nutrients" vertex="1">
+          <mxGeometry height="60" width="120" x="-1440" y="3450" as="geometry" />
+        </mxCell>
+        <mxCell id="ox5nj0q9cpcHpPmOWNk0-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="-1350" y="3360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
